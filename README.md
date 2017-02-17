@@ -1,5 +1,4 @@
-# ImageCoverFlow
-![Image text](https://github.com/Kevin005/IMG_FLOW/blob/master/ImageCoverFlow/imagecoverflow.png)
+
 # ImageCoverFlow
 
 #### To show Cover Flow effect on Android
@@ -8,8 +7,7 @@ ImageCoverFlow is an open source Android library that allows developers to easil
 
 **Note**: looping mode is currently supported, non-looping mode will be supported later.
 
-![Oops! The screenshot is missing!](https://github.com/dolphinwang/ImageCoverFlow/raw/master/imagecoverflow_screenshot.png)
-
+![Image is Null](https://github.com/Kevin005/IMG_FLOW/blob/master/ImageCoverFlow/imagecoverflow.png)
 #### ImageCoverFlow is currently used in some published Android apps:
 
 1. [ICardEnglish](https://play.google.com/store/apps/details?id=com.cn.icardenglish&hl=zh_CN)
